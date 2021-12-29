@@ -1,0 +1,1 @@
+Este é um projeto em python iniciante. Estou estudando automação, aplicações e bots em python, e dessa forma, estou desenvolvendo pequenos projetos nesse sentido.
