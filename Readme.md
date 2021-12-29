@@ -1,1 +1,1 @@
-Este é um projeto em python iniciante. Estou estudando automação, aplicações e bots em python, e dessa forma, estou desenvolvendo pequenos projetos nesse sentido.
+Este é um projeto em python iniciante, que consiste em um gerador de senhas aleatórias. Estou estudando automação, aplicações e bots em python, e dessa forma, estou desenvolvendo pequenos projetos nesse sentido.
